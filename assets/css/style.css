@@ -1,0 +1,28 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+header ul a:hover{
+    color: black;
+    font-weight: bold;
+    transition: 0.5s;
+}
+
+#title{
+    background-image: url(../img/about-title.png);
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+#title h1{
+    font-size: 72px;
+    color: white;
+    
+}
+
