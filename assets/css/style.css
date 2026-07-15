@@ -5,9 +5,9 @@
 }
 
 header ul a:hover{
-    color: black;
     font-weight: bold;
     transition: 0.5s;
+    color: black;
     
 }
 
@@ -27,3 +27,7 @@ header ul a:hover{
     
 }
 
+#title h1:hover{
+    scale: 1.1;
+    transition: 0.5s;
+}
